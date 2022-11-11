@@ -7,3 +7,4 @@ TODO
 
 
 sudo pip3 install bme680
+do stuff
