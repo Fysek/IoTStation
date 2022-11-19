@@ -50,9 +50,7 @@ class SliderScanner():
         time.sleep(self.__timeInterval)
         debug_message('All channels: ' + str(self.__values[0:2]))
        
-e
-
-
+	   
 mcp = SliderScanner()
 while 1:
     mcp.readValues()
